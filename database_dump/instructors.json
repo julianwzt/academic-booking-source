@@ -1,0 +1,42 @@
+[
+  {
+    "code": "INST001",
+    "name": "Dr. Andi Pratama",
+    "email": "andi.pratama@telkom.ac.id",
+    "role": "Lecturer",
+    "department": "Informatics Engineering",
+    "id": "5d52ec63-23ef-4118-b27e-196fc05e6fc5"
+  },
+  {
+    "code": "INST002",
+    "name": "Siti Rahmawati, S.T.",
+    "email": "siti.rahmawati@telkom.ac.id",
+    "role": "Lecturer",
+    "department": "Information Systems",
+    "id": "615e56ac-90dc-4981-9473-e71642d033e1"
+  },
+  {
+    "code": "INST003",
+    "name": "Budi Santoso",
+    "email": "budi.santoso@telkom.ac.id",
+    "role": "Assistant Lecturer",
+    "department": "Computer Science",
+    "id": "5ff21637-6c00-4ccf-a296-04f228d1b039"
+  },
+  {
+    "code": "INST004",
+    "name": "Nadia Putri",
+    "email": "nadia.putri@telkom.ac.id",
+    "role": "Assistant Lecturer",
+    "department": "Information Systems",
+    "id": "1eece826-2858-4712-8590-a626497fcb50"
+  },
+  {
+    "code": "INST005",
+    "name": "Alex Hartanto",
+    "email": "alex.hartanto@telkom.ac.id",
+    "role": "Lecturer",
+    "department": "Informatics Engineering",
+    "id": "5f4d321d-f16e-45ca-a738-f41b6a700c17"
+  }
+]

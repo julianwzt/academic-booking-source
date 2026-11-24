@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ae414ff7-58a3-4288-86a0-4dfd6e9221c8",
+    "email": "andi.pratama@telkom.ac.id",
+    "name": "Dr. Andi Pratama",
+    "password_hash": "$pbkdf2-sha256$29000$WlwUrvgPrsM4.iWpRoecCQ$Zh9PIjV9MjYsbkCpHjdMOJYk95TBDLbsJuEqSZaqubM",
+    "access_role": "instructor",
+    "instructor_id": "5d52ec63-23ef-4118-b27e-196fc05e6fc5",
+    "created_at": {
+      "$date": "2026-11-24T14:08:50.397675Z"
+    }
+  },
+  {
+    "id": "a794ba44-8354-4d08-99c5-f8706f59721c",
+    "email": "siti.rahmawati@telkom.ac.id",
+    "name": "Siti Rahmawati, S.T.",
+    "password_hash": "$pbkdf2-sha256$29000$YerOT6vg8Oet.Bh3NEJmwQ$bvZ64oKbTeB2x7bOK3cQj6NqxqX5aqKmRfv4MEOyS.8",
+    "access_role": "instructor",
+    "instructor_id": "615e56ac-90dc-4981-9473-e71642d033e1",
+    "created_at": {
+      "$date": "2026-11-24T14:08:50.397675Z"
+    }
+  },
+  {
+    "id": "9fb5552a-780f-400f-a961-71a558db774b",
+    "email": "budi.santoso@telkom.ac.id",
+    "name": "Budi Santoso",
+    "password_hash": "$pbkdf2-sha256$29000$WbcRyX1Nh2uYkft/TDuuHg$aSdFdmjnKX.sBu9gtE7SZsQFjpYLB1D1Sq2ArrJdito",
+    "access_role": "instructor",
+    "instructor_id": "5ff21637-6c00-4ccf-a296-04f228d1b039",
+    "created_at": {
+      "$date": "2026-11-24T14:08:50.397675Z"
+    }
+  },
+  {
+    "id": "97204c49-8038-4573-95ce-4b169c4bc48f",
+    "email": "nadia.putri@telkom.ac.id",
+    "name": "Nadia Putri",
+    "password_hash": "$pbkdf2-sha256$29000$QTDg4W6zyIdhuVnTrlGezw$AEGepzYgpPrzlAQqq/QmbJsKYayHonOafR4iEVmAjl4",
+    "access_role": "instructor",
+    "instructor_id": "1eece826-2858-4712-8590-a626497fcb50",
+    "created_at": {
+      "$date": "2026-11-24T14:08:50.397675Z"
+    }
+  },
+  {
+    "id": "5fcb6beb-e428-4539-a19e-c897e5df8ea3",
+    "email": "alex.hartanto@telkom.ac.id",
+    "name": "Alex Hartanto",
+    "password_hash": "$pbkdf2-sha256$29000$ORIhDhhtu0EuBCVy52MM7w$bEFMjtoCP7Wq03Y9pXZzGJ9gH6Qc5Lqul/46yj.gmPQ",
+    "access_role": "instructor",
+    "instructor_id": "5f4d321d-f16e-45ca-a738-f41b6a700c17",
+    "created_at": {
+      "$date": "2026-11-24T14:08:50.397675Z"
+    }
+  },
+  {
+    "id": "80af7087-0edb-4d33-8cdf-b34ec8dbaebb",
+    "email": "admin@telkom.ac.id",
+    "name": "Rina Wijaya",
+    "password_hash": "$pbkdf2-sha256$29000$nAMFDz48iK30MMvo1AuRVA$uUB7ocay1XTAiT6yEa3BVZS8JE6PtSd4onIlHE5YfKo",
+    "access_role": "admin",
+    "instructor_id": null,
+    "created_at": {
+      "$date": "2026-11-24T14:08:50.397675Z"
+    }
+  }
+]

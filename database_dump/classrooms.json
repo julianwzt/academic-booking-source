@@ -1,0 +1,130 @@
+[
+  {
+    "code": "TULT-06-01",
+    "name": "Ruang Kelas 601",
+    "building": "TULT",
+    "floor": 6,
+    "capacity": 40,
+    "type": "Classroom",
+    "facilities": [
+      "Projector",
+      "Whiteboard",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "58fd1e1e-ce5c-4b7c-ac84-d0b06df66247"
+  },
+  {
+    "code": "TULT-06-02",
+    "name": "Ruang Kelas 602",
+    "building": "TULT",
+    "floor": 6,
+    "capacity": 40,
+    "type": "Classroom",
+    "facilities": [
+      "Projector",
+      "Whiteboard",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "2b2cd371-7940-4d61-863b-611e8ad445fb"
+  },
+  {
+    "code": "TULT-06-03",
+    "name": "Ruang Kelas 603",
+    "building": "TULT",
+    "floor": 6,
+    "capacity": 50,
+    "type": "Classroom",
+    "facilities": [
+      "Projector",
+      "Whiteboard",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "802cdff4-7533-4af6-b270-e097bab354c9"
+  },
+  {
+    "code": "TULT-06-04",
+    "name": "Laboratorium 604",
+    "building": "TULT",
+    "floor": 6,
+    "capacity": 30,
+    "type": "Laboratory",
+    "facilities": [
+      "Computers",
+      "Projector",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "e02279ed-8ace-488f-b000-752184b8b333"
+  },
+  {
+    "code": "TULT-07-01",
+    "name": "Ruang Kelas 701",
+    "building": "TULT",
+    "floor": 7,
+    "capacity": 40,
+    "type": "Classroom",
+    "facilities": [
+      "Projector",
+      "Whiteboard",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "92fb7b1b-49c2-410d-bba9-e170be6af81f"
+  },
+  {
+    "code": "TULT-07-02",
+    "name": "Ruang Kelas 702",
+    "building": "TULT",
+    "floor": 7,
+    "capacity": 40,
+    "type": "Classroom",
+    "facilities": [
+      "Projector",
+      "Whiteboard",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "182e69f6-b11a-4e1c-a5ab-808c3a75cf8f"
+  },
+  {
+    "code": "TULT-07-03",
+    "name": "Ruang Kelas 703",
+    "building": "TULT",
+    "floor": 7,
+    "capacity": 50,
+    "type": "Classroom",
+    "facilities": [
+      "Projector",
+      "Whiteboard",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "b13f2cce-888b-438d-abce-59b29afa3ad6"
+  },
+  {
+    "code": "TULT-07-04",
+    "name": "Laboratorium 704",
+    "building": "TULT",
+    "floor": 7,
+    "capacity": 30,
+    "type": "Laboratory",
+    "facilities": [
+      "Computers",
+      "Projector",
+      "AC",
+      "WiFi"
+    ],
+    "status": "Available",
+    "id": "326327a0-fce1-458b-8416-f10064bad4b9"
+  }
+]
